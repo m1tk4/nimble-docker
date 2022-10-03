@@ -1,0 +1,7 @@
+[nimble]
+name= Nimble Streamer repository
+baseurl=http://nimblestreamer.com/centos/7/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=http://nimblestreamer.com/gpg.key
+
