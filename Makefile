@@ -1,5 +1,5 @@
 IMAGE=m1tk4/nimble-docker
-TESTCTR=nimble
+CONT_NAME=nimble
 
 build:
 	docker build --pull --rm --tag $(IMAGE) .
